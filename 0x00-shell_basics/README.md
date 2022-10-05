@@ -1,1 +1,1 @@
-My second day
+Display current directory contents in a long format
